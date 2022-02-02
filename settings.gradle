@@ -1,2 +1,2 @@
-rootProject.name = "FCM Sample"
+rootProject.name = "FCM Sample WC"
 include ':app'

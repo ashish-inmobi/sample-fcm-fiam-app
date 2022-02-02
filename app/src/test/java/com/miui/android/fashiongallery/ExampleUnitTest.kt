@@ -1,4 +1,4 @@
-package sample.fcm
+package com.miui.android.fashiongallery
 
 import org.junit.Test
 

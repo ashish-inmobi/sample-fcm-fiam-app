@@ -1,4 +1,4 @@
-package sample.fcm
+package com.miui.android.fashiongallery
 
 import android.content.Context
 import android.os.Bundle
@@ -10,6 +10,7 @@ import com.google.android.gms.tasks.OnCompleteListener
 import com.google.firebase.FirebaseApp
 import com.google.firebase.installations.FirebaseInstallations
 import com.google.firebase.messaging.FirebaseMessaging
+import com.miui.android.fashiongallery.R
 
 
 class MainActivity : AppCompatActivity() {
