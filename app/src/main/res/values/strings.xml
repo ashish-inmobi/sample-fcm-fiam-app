@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCM Sample</string>
+    <string name="log_identifiers">Log Identifiers</string>
+</resources>
